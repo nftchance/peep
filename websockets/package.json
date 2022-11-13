@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "nodemon": "^2.0.20",
+    "web3": "^1.8.1",
+    "websocket": "^1.0.34"
+  },
+  "scripts": {
+    "start": "nodemon server.js"
+  }
+}
